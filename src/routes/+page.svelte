@@ -3,10 +3,8 @@
 	<link rel="icon" type="image/png" href="/images/favicon-32x32.png" />
 </svelte:head>
 
-<main class="flex justify-center items-center h-screen -md:my-20">
-	<div
-		class="grid grid-cols-3 -md:grid-cols-1 -md:mx-8 h-[500px] w-[800px] -lg:w-[700px] -md:w-max"
-	>
+<main class="flex justify-center items-center -md:items-start h-screen -md:mx-8 -md:my-20">
+	<div class="grid grid-cols-3 -md:grid-cols-1 h-[500px] w-[800px] -lg:w-[700px]">
 		<div
 			class="flex flex-col justify-end bg-bright-orange p-12 rounded-l-xl -md:rounded-l-none -md:rounded-t-xl"
 		>
